@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>Vertex WoW</title>
+  <desc>A compass rose with the Vertex V medallion at center.</desc>
+  <rect width="512" height="512" fill="#1F2937"/>
+  <polygon points="256,46.08 276.48,235.52 256,256 235.52,235.52" fill="#FCD34D"/>
+  <polygon points="256,465.92 276.48,276.48 256,256 235.52,276.48" fill="#F59E0B"/>
+  <polygon points="46.08,256 235.52,276.48 256,256 235.52,235.52" fill="#F59E0B"/>
+  <polygon points="465.92,256 276.48,276.48 256,256 276.48,235.52" fill="#FCD34D"/>
+  <polygon points="102.4,102.4 238.08,238.08 256,256 235.52,235.52" fill="#F59E0B" opacity="0.7"/>
+  <polygon points="409.6,409.6 273.92,273.92 256,256 276.48,276.48" fill="#F59E0B" opacity="0.7"/>
+  <polygon points="409.6,102.4 273.92,238.08 256,256 276.48,235.52" fill="#FCD34D" opacity="0.7"/>
+  <polygon points="102.4,409.6 238.08,273.92 256,256 235.52,276.48" fill="#FCD34D" opacity="0.7"/>
+  <circle cx="256" cy="256" r="133.12" fill="#1F2937"/>
+  <circle cx="256" cy="256" r="133.12" fill="none" stroke="#FCD34D" stroke-width="5.12"/>
+  <g transform="translate(94.131, 71.398) scale(0.63232, 0.68232)">
+    <polygon points="89.6,128 192,128 256,358.4 320,128 422.4,128 307.2,435.2 204.8,435.2" fill="#FCD34D"/>
+    <rect x="153.6" y="294.4" width="204.8" height="15.4" fill="#1F2937"/>
+  </g>
+</svg>
